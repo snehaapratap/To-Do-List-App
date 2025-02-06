@@ -31,8 +31,8 @@ streamlit run app.py
 3. Mark tasks as completed by checking the box.
 4. Delete tasks if no longer needed.
 
-## 📸 Demo
-![To-Do List App Screenshot](https://via.placeholder.com/800x400)
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/02b35e01-e722-4331-a400-60d9cc07db69)
 
 ## 📌 Future Improvements
 - Add user authentication
